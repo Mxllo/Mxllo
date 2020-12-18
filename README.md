@@ -1,18 +1,25 @@
-### Hi there 👋
+<p align="center">
+<img src="https://media1.tenor.com/images/2eada1bbeb4ed4182079cf00070324a2/tenor.gif" height="100">
+</p>
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mxllo&show_icons=true&theme=radical"
+</p>
+  
+  
+#### About myself:
 
-<!--
-**Mxllo/Mxllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Lucas github stats](https://github-readme-stats.vercel.app/api?username=mxllo)]
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working @ IBM 
+- 🌱 I’m currently learning Spring Boot, REST and Microsservices
+- 📫 Contact me!
+<p>
+<a href="https://www.linkedin.com/in/lucasmello97/">
+  <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c528.png"  height="32"></a>⠀⠀
+<a href="https://wwww.instagram.com/m.xllo">
+  <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="32" height="32"></a>⠀⠀
+<a href="mailto:lucasmellog@gmail.com">
+  <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-logo-icons-2.png" width="32" height="32"></a>
+  
+  
+  
+</p>
