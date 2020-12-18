@@ -9,7 +9,6 @@
   
 #### About myself:
 
-- 🔭 I’m currently working @ IBM 
 - 🌱 I’m currently learning Spring Boot, REST and Microsservices
 - 📫 Contact me!
 <p>
