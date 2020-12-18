@@ -1,9 +1,9 @@
-<p align="center">
-<img src="https://media1.tenor.com/images/2eada1bbeb4ed4182079cf00070324a2/tenor.gif" height="100">
+<p align="center"><a href="#">
+<img src="https://media1.tenor.com/images/2eada1bbeb4ed4182079cf00070324a2/tenor.gif" height="100"></a>
 </p>
   
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mxllo&show_icons=true&theme=radical"
+<p align="center"><a href="#">
+<img src="https://github-readme-stats.vercel.app/api?username=mxllo&show_icons=true&theme=radical"></a>
 </p>
   
   
