@@ -3,7 +3,7 @@
 <!--
 **Mxllo/Mxllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Lucas github stats](https://github-readme-stats.vercel.app/api?username=Mxllo)](https://github.com/mxllo/github-readme-stats)
+[![Lucas github stats](https://github-readme-stats.vercel.app/api?username=mxllo)]
 
 Here are some ideas to get you started:
 
