@@ -15,7 +15,7 @@
 <p>
 <a href="https://www.linkedin.com/in/lucasmello97/">
   <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c528.png"  height="32"></a>⠀⠀
-<a href="https://wwww.instagram.com/m.xllo">
+<a href="https://www.instagram.com/m.xllo/">
   <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="32" height="32"></a>⠀⠀
 <a href="mailto:lucasmellog@gmail.com">
   <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-logo-icons-2.png" width="32" height="32"></a>
