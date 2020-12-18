@@ -3,9 +3,9 @@
 </p>
   
 <p align="center" ><a href="#">
-  <img align="center" height="230" src="https://github-readme-stats.vercel.app/api?username=mxllo&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mxllo&show_icons=true&theme=radical">
   ⠀⠀⠀
-  <img align="center" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxllo&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=radical"></a>
+  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxllo&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=radical"></a>
 </p>
 
   
